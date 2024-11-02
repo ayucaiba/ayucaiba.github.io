@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ayucaiba.github.io/CnY/sitemap_index.txt
+Sitemap: https://ayucaiba.github.io/IFi/sitemap_index.txt
+Sitemap: https://ayucaiba.github.io/UqH/sitemap_index.txt
+Sitemap: https://ayucaiba.github.io/qRY/sitemap_index.txt
